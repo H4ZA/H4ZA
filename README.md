@@ -2,6 +2,7 @@
 - 👀 I’m interested in python and unity
 - 🌱 I’m currently learning both 
 - 💞️ I’m looking to collaborate on any projects for beginners
+- #  Hoping to learn more from you all
 
 <!---
 H4ZA/H4ZA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
